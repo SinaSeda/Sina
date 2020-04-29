@@ -1,0 +1,33 @@
+.navbar {
+  display: flex;
+  flex-direction: row-reverse;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+
+  position: -webkit-fixed;
+  position: fixed;
+  top: 0;
+  right: 10px;
+  z-index: 1;
+
+  color: #a5a5a5;
+}
+
+.navigationiems {
+  padding: 5px;
+  margin: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.navigationiems:hover {
+  text-decoration: underline;
+  color: aquamarine;
+}
+
+/* .brush {
+  max-width: 30px;
+  padding: 0.5px;
+  padding-right: 85vw;
+  margin: 10px;
+} */

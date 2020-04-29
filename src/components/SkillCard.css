@@ -1,0 +1,35 @@
+
+.skillCard {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  width: 120px;
+  height: 200px;
+  margin: 10px;
+  background-color: #70cfc3;
+  
+  box-shadow: 0 4px 8px 0 rgba(0,35,33,0.2);
+  transition: 0.3s;
+}
+
+.skillCard:hover {
+  box-shadow: 0 14px 28px 0 rgba(0,35,33,0.2);
+}
+
+.cardimage {
+  width: 110px;
+  text-align: center;
+  padding: 5px;
+
+}
+
+.cardtitle {
+  padding: 5px;
+  height: 100px;
+  width: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

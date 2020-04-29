@@ -1,0 +1,11 @@
+/* .third {
+  background-color: #9FE4DB;
+  color: #005A53;
+} */
+
+.card {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}

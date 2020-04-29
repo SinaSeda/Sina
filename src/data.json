@@ -1,0 +1,66 @@
+{
+    "title": "Hello i'm Sina!",
+    "subtitle": "FrontEnd Dev",
+    "links": {
+        "github": "https://github.com/SinaSeda",
+        "instagram":"https://instagram.com/_sina__sedaghat_?igshid=c3matnzxvpqs",
+        "linkedin": "https://linkedin.com/in/SinaSeda"
+    },
+    "icons": {
+        "down": "arrow/Down.png",
+        "up": "arrow/Up.png",
+        "brush": "arrow/brush.png"
+    },
+    "section": [
+        {
+            "title": "About",
+            "items": [
+                {
+                    "type": "p",
+                    "content": "some text"
+                }
+            ]
+        },
+        {
+            "title": "Skills",
+            "items": [
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "cardlogo/HTML.png",
+                        "title": "HTML"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "cardlogo/CSS.png",
+                        "title": "CSS"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "cardlogo/JS.png",
+                        "title": "JavaScript"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "cardlogo/React.png",
+                        "title": "React"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "cardlogo/wordperss.png",
+                        "title": "Wordpress"
+                    }
+                }
+            ]
+        }
+    ]
+     
+}

@@ -1,0 +1,10 @@
+.brush {
+  position: fixed;
+  top: 7px;
+  left: 7px;
+  max-width: 30px;
+  z-index: 1;
+  /* padding: 0.5px;
+  padding-right: 85vw;
+  margin: 10px; */
+}

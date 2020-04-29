@@ -1,0 +1,16 @@
+.down {
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  /* display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: -34px;
+  
+    transform: translateY(-45px); */
+}
+
+.downicon {
+  max-width: 30px;
+}
